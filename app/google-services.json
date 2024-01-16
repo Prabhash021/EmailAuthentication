@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354066106027",
+    "project_id": "login-registration-9898",
+    "storage_bucket": "login-registration-9898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354066106027:android:46cf74d44351cae48599ee",
+        "android_client_info": {
+          "package_name": "com.example.emailauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIgjvL89yE-czWgDvvulo9aiE02FMYzMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
